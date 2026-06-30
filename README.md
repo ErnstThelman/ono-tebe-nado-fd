@@ -1,1 +1,1 @@
-https://github.com/ErnstThelman/ono-tebe-nado-fd#
+https://github.com/ErnstThelman/ono-tebe-nado-fd.git
