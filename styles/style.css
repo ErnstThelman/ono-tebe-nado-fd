@@ -149,6 +149,11 @@
     text-transform: uppercase;
 }
 
+.lots_list-card { 
+    width: 334px; 
+    min-height: 596px; 
+} 
+
 .lots_list {
     display: flex;
     gap: 25px;
@@ -161,6 +166,7 @@
 .lots_list-link {
     display: block;
     width: 334px;
+    min-height: 596px;
     text-decoration: none;
 }
 
