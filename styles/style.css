@@ -149,10 +149,10 @@
     text-transform: uppercase;
 }
 
-.lots_list-card { 
-    width: 334px; 
-    min-height: 596px; 
-} 
+.lots_list-card {
+    width: 334px;
+    min-height: 596px;
+}
 
 .lots_list {
     display: flex;
@@ -261,12 +261,11 @@
     display: flex;
     justify-content: space-between;
     align-items: start;
+    min-height: 180px;
     font-size: 18px;
     padding-left: 50px;
     padding-right: 50px;
 }
-
-
 
 .footer_menu-list {
     display: flex;
